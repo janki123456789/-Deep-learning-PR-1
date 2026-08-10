@@ -63,11 +63,6 @@ data = load_breast_cancer(as_frame=True)
 
 X = data.data
 y = data.target
-```
-
-## Streamlit link
-
-- []
 
 ---
 
